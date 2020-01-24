@@ -35,4 +35,6 @@ adb shell pm uninstall -k --user 0 com.hungama.myplay.activity
 adb shell pm uninstall -k --user 0 com.facebook.katana
 adb shell pm uninstall -k --user 0 in.amazon.mShop.android.shopping
 adb shell pm uninstall -k --user 0 com.miui.hybrid
-
+adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox
+adb shell pm uninstall -k --user 0 com.android.deskclock
+adb shell pm uninstall -k --user 0 com.miui.miservice
