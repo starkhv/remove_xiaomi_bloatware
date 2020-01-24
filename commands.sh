@@ -15,8 +15,6 @@ adb shell pm uninstall -k --user 0 com.miui.player
 adb shell pm uninstall -k --user 0 com.miui.videoplayer
 adb shell pm uninstall -k --user 0 com.xiaomi.scanner
 adb shell pm uninstall -k --user 0 com.xiaomi.discover
-adb shell pm uninstall -k --user 0 com.miui.cleanmaster
-adb shell pm uninstall -k --user 0 com.miui.securityadd
 adb shell pm uninstall -k --user 0 com.miui.miwallpaper
 adb shell pm uninstall -k --user 0 com.miui.weather2
 adb shell pm uninstall -k --user 0 com.miui.providers.weather
